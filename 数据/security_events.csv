@@ -1,0 +1,31 @@
+﻿id,device_id,event_type,severity,details,timestamp
+1,8,温控异常,1,事件发生在 Living Room，设备 Split Air Conditioner 检测到异常。具体事件：未知,2025-06-18 00:44:00
+2,23,传感报警,4,事件发生在 Kitchen，设备 Smart Motion Sensor 检测到异常。具体事件：未知,2025-06-17 19:18:00
+3,8,温控异常,1,事件发生在 Living Room，设备 Split Air Conditioner 检测到异常。具体事件：未知,2025-06-17 05:21:00
+4,14,温控异常,1,事件发生在 Entrance，设备 Split Air Conditioner 检测到异常。具体事件：未知,2025-06-21 21:52:00
+5,6,门锁异常,2,事件发生在 Bedroom，设备 Wi-Fi Door Lock 检测到异常。具体事件：未知,2025-06-19 07:35:00
+6,28,灯光异常,1,事件发生在 Bedroom，设备 RGB Smart Light 检测到异常。具体事件：未知,2025-06-21 03:50:00
+7,18,电流异常,1,事件发生在 Living Room，设备 USB Smart Plug 检测到异常。具体事件：未知,2025-06-20 10:11:00
+8,25,画面异常,2,事件发生在 Living Room，设备 Indoor Security Camera 检测到异常。具体事件：未知,2025-06-21 14:21:00
+9,3,温度异常,2,事件发生在 Bathroom，设备 Smart Thermostat 检测到异常。具体事件：未知,2025-06-18 20:57:00
+10,2,门锁异常,3,事件发生在 Kitchen，设备 Smart Door Lock 检测到异常。具体事件：未知,2025-06-18 20:10:00
+11,30,门锁异常,1,事件发生在 Living Room，设备 Keyless Door Lock 检测到异常。具体事件：未知,2025-06-19 10:16:00
+12,7,门锁异常,4,事件发生在 Bedroom，设备 Keyless Door Lock 检测到异常。具体事件：未知,2025-06-20 03:16:00
+13,7,门锁异常,3,事件发生在 Bedroom，设备 Keyless Door Lock 检测到异常。具体事件：未知,2025-06-18 15:34:00
+14,26,灯光异常,1,事件发生在 Bathroom，设备 RGB Smart Light 检测到异常。具体事件：未知,2025-06-20 11:33:00
+15,12,温控异常,5,事件发生在 Living Room，设备 Inverter Air Conditioner 检测到异常。具体事件：未知,2025-06-18 21:27:00
+16,19,画面异常,2,事件发生在 Bedroom，设备 Wireless Security Camera 检测到异常。具体事件：未知,2025-06-17 03:43:00
+17,22,画面异常,1,事件发生在 Kitchen，设备 IP Security Camera 检测到异常。具体事件：未知,2025-06-19 21:55:00
+18,12,温控异常,4,事件发生在 Living Room，设备 Inverter Air Conditioner 检测到异常。具体事件：未知,2025-06-21 01:02:00
+19,8,温控异常,3,事件发生在 Living Room，设备 Split Air Conditioner 检测到异常。具体事件：未知,2025-06-19 00:46:00
+20,17,用电异常,4,事件发生在 Bathroom，设备 Smart Outlet 检测到异常。具体事件：未知,2025-06-18 18:45:00
+21,5,门锁异常,5,事件发生在 Entrance，设备 Keyless Door Lock 检测到异常。具体事件：未知,2025-06-21 00:09:00
+22,21,电流异常,1,事件发生在 Entrance，设备 Bluetooth Smart Plug 检测到异常。具体事件：未知,2025-06-18 05:25:00
+23,23,传感报警,4,事件发生在 Kitchen，设备 Smart Motion Sensor 检测到异常。具体事件：未知,2025-06-18 13:22:00
+24,14,温控异常,2,事件发生在 Entrance，设备 Split Air Conditioner 检测到异常。具体事件：未知,2025-06-17 00:28:00
+25,1,传感报警,1,事件发生在 Bedroom，设备 Smart Window Sensor 检测到异常。具体事件：未知,2025-06-19 11:13:00
+26,24,用电异常,2,事件发生在 Entrance，设备 Smart Outlet 检测到异常。具体事件：未知,2025-06-20 09:25:00
+27,19,画面异常,3,事件发生在 Bedroom，设备 Wireless Security Camera 检测到异常。具体事件：未知,2025-06-20 16:45:00
+28,5,门锁异常,5,事件发生在 Entrance，设备 Keyless Door Lock 检测到异常。具体事件：未知,2025-06-20 01:53:00
+29,19,画面异常,1,事件发生在 Bedroom，设备 Wireless Security Camera 检测到异常。具体事件：未知,2025-06-19 01:17:00
+30,19,画面异常,2,事件发生在 Bedroom，设备 Wireless Security Camera 检测到异常。具体事件：未知,2025-06-20 13:19:00
