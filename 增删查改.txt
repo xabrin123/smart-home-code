@@ -1,0 +1,24 @@
+--向 devices 表插入一条新设备
+INSERT INTO devices (id, user_id, name, type, room, created_at, updated_at)
+VALUES (999, 1, 'Test Device', 'smart_plug', 'Living Room', '2025-06-25 10:00:00', '2025-06-25 10:00:00');
+--向 feedback 表插入一条反馈
+INSERT INTO public.user_feedbacks (id, user_id, rating, device_id, feedback_text, created_at)
+VALUES (999, 1, 5, 999, '测试反馈：设备运行良好。', '2025-06-25 12:00:00');
+--查询所有智能插座设备（type = 'smart_plug'） sql 复制 编辑
+SELECT * FROM devices WHERE type = 'smart_plug';
+--查询评分为 3 分及以上的反馈
+SELECT * FROM user_feedbacks WHERE rating >= 3;
+--更新某个设备的名称和房间位置
+UPDATE devices
+SET name = 'Updated Device Name', room = 'Bedroom', updated_at = NOW()
+WHERE id = 999;
+--更新某条反馈的评分
+UPDATE user_feedbacks
+SET rating = 4
+WHERE id = 9;
+--删除某个测试设备
+DELETE FROM devices
+       WHERE id = 999;
+--删除某条测试反馈
+DELETE FROM user_feedbacks
+       WHERE id = 999;
